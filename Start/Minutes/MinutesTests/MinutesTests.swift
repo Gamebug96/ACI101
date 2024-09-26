@@ -11,6 +11,7 @@ import XCTest
 
 final class MinutesTests: XCTestCase {
     
+    /// Adding comment for this test to run on App Center
     var entryUnderTest: Entry!
     
     override func setUpWithError() throws {
